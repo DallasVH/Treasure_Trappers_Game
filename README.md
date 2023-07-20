@@ -6,4 +6,3 @@ Preview Link: https://dallasjvh.wixsite.com/portfolio/copy-of-lets-jam
 
 Below is a link to the zipped game file. It was too large to upload on to Github if you would like to take a closer look at my code.
 Link: https://drive.google.com/file/d/18_sx5zIhEp0eHc1CKcYSPhKLVPLKZouD/view?usp=sharing
-
